@@ -74,13 +74,3 @@ Para garantizar la seguridad de las solicitudes, el API Gateway está configurad
 A continuación se presenta un diagrama que ilustra la arquitectura descrita:
 
 ![Diagrama de Arquitectura AWS](/DiagramaArquitecturaAWS.png)
-
-
-## Pendiente
-* ESENCIAL. Configurar NGINX en EC2
-* ESENCIAL. Nombre de dominio de primer nivel
-* ESENCIAL. Revisar configuración CORS API GateWay
-* ESENCIAL. Declarar EndPoints en API GateWay
-* ESENCIAL. Asociar un subdominio a API GateWay (Debe asociarse un subdominio a esta (e.g. api.miapp.com))
-* ESENCIAL. gestión de tokens JWT con OAuth2 en CustomAuthorizer
-* Diagrama UML
