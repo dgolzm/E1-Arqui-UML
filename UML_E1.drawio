@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Página-1" id="o5d4DbVt-xcLEBsC3OUb">
-    <mxGraphModel dx="1562" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="521" dy="270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,7 +37,7 @@
         <mxCell id="2eBFDwB-1l00EKEGbf3b-57" value="" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="375" y="540" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2eBFDwB-1l00EKEGbf3b-60" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="2eBFDwB-1l00EKEGbf3b-60" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="280" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2eBFDwB-1l00EKEGbf3b-63" value="" style="html=1;whiteSpace=wrap;rotation=90;" vertex="1" parent="1">
