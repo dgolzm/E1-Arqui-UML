@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="q2BBwvF5Xpx6hRy9aIqh-13" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="526" width="800" height="554" as="geometry" />
+          <mxGeometry x="610" y="526" width="940" height="554" as="geometry" />
         </mxCell>
         <mxCell id="q2BBwvF5Xpx6hRy9aIqh-12" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="60" width="490" height="1020" as="geometry" />
@@ -628,7 +628,7 @@
           <mxGeometry x="230" y="1120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="q2BBwvF5Xpx6hRy9aIqh-4" value="&lt;b&gt;Terraform&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1125" y="360.58000000000004" width="160" height="69.42" as="geometry" />
+          <mxGeometry x="1164.25" y="400.58" width="160" height="69.42" as="geometry" />
         </mxCell>
         <mxCell id="q2BBwvF5Xpx6hRy9aIqh-5" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="q2BBwvF5Xpx6hRy9aIqh-4">
           <mxGeometry x="1" width="11" height="20" relative="1" as="geometry">
@@ -659,6 +659,32 @@
               <mxPoint x="610" y="970" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="q2BBwvF5Xpx6hRy9aIqh-17" value="&lt;b&gt;AWS API&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1345" y="560" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="q2BBwvF5Xpx6hRy9aIqh-18" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="q2BBwvF5Xpx6hRy9aIqh-17">
+          <mxGeometry x="1" width="10" height="20" relative="1" as="geometry">
+            <mxPoint x="-18" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q2BBwvF5Xpx6hRy9aIqh-19" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=halfCircle;endFill=0;endSize=6;strokeWidth=1;sketch=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="q2BBwvF5Xpx6hRy9aIqh-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1330" y="605" as="sourcePoint" />
+            <mxPoint x="1430" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q2BBwvF5Xpx6hRy9aIqh-20" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=oval;endFill=0;sketch=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=10;exitX=0.998;exitY=0.549;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="q2BBwvF5Xpx6hRy9aIqh-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1290" y="605" as="sourcePoint" />
+            <mxPoint x="1430" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1430" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q2BBwvF5Xpx6hRy9aIqh-21" value="" style="ellipse;whiteSpace=wrap;html=1;align=center;aspect=fixed;fillColor=none;strokeColor=none;resizable=0;perimeter=centerPerimeter;rotatable=0;allowArrows=0;points=[];outlineConnect=1;" vertex="1" parent="1">
+          <mxGeometry x="1305" y="600" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
