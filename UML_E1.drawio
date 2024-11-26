@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
   <diagram name="Página-1" id="o5d4DbVt-xcLEBsC3OUb">
-    <mxGraphModel dx="658" dy="2305" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="2478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -694,6 +694,9 @@
         </mxCell>
         <mxCell id="q2BBwvF5Xpx6hRy9aIqh-29" value="" style="html=1;whiteSpace=wrap;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="475.99" y="93.72" width="12.64" height="11.16" as="geometry" />
+        </mxCell>
+        <mxCell id="q2BBwvF5Xpx6hRy9aIqh-30" value="DB Query" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="488.63" y="30" width="60" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
