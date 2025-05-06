@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1247" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1580" dy="1896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -599,16 +599,16 @@
           <mxGeometry y="118" width="180" height="78" as="geometry" />
         </mxCell>
         <mxCell id="kQSkYS5nrnOy-zaiXLge-126" value="&lt;div&gt;ParticipantePartida&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="497.5" y="180" width="180" height="196" as="geometry" />
+          <mxGeometry x="497.5" y="180" width="180" height="160" as="geometry" />
         </mxCell>
         <mxCell id="kQSkYS5nrnOy-zaiXLge-127" value="&lt;div&gt;+ usuario: Usuario&lt;/div&gt;&lt;div&gt;+ clase: Clase&lt;/div&gt;&lt;div&gt;+ color: enum&lt;/div&gt;&lt;div&gt;+ piezasList: List[Pieza]&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="kQSkYS5nrnOy-zaiXLge-126">
-          <mxGeometry y="30" width="180" height="80" as="geometry" />
+          <mxGeometry y="30" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kQSkYS5nrnOy-zaiXLge-128" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="kQSkYS5nrnOy-zaiXLge-126">
-          <mxGeometry y="110" width="180" height="8" as="geometry" />
+          <mxGeometry y="100" width="180" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="kQSkYS5nrnOy-zaiXLge-129" value="+ inciarPartida()&lt;div&gt;+ procesarAccion()&lt;/div&gt;&lt;div&gt;- siguienteTurno)(&lt;/div&gt;&lt;div&gt;- verificarVictoria()&lt;/div&gt;&lt;div&gt;- iniciarEvento()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="kQSkYS5nrnOy-zaiXLge-126">
-          <mxGeometry y="118" width="180" height="78" as="geometry" />
+        <mxCell id="kQSkYS5nrnOy-zaiXLge-129" value="+ registrarMovimiento()&lt;div&gt;+ registrarUsoCarta()&lt;/div&gt;&lt;div&gt;+ usarCarta()&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="kQSkYS5nrnOy-zaiXLge-126">
+          <mxGeometry y="108" width="180" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
