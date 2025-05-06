@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2305" dy="1966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2111" dy="1851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,7 +181,7 @@
         <mxCell id="qR0Zz7dsjUE7SFdF7JR2-12" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="qR0Zz7dsjUE7SFdF7JR2-10" vertex="1">
           <mxGeometry y="100" width="220" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="qR0Zz7dsjUE7SFdF7JR2-13" value="+obtenerMovimientosLegales(tablero): list~Posicion~&lt;br/&gt;        +moverA(casilla)&lt;br/&gt;        +serCapturada()&lt;br/&gt;        +serAfectadaPor(efecto)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="qR0Zz7dsjUE7SFdF7JR2-10" vertex="1">
+        <mxCell id="qR0Zz7dsjUE7SFdF7JR2-13" value="+obtenerMovimientosLegales(tablero): list[Posicion]&lt;br&gt;        +mover(casilla)&lt;br&gt;        +serCapturada()&lt;br&gt;        +serAfectada(efecto)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="qR0Zz7dsjUE7SFdF7JR2-10" vertex="1">
           <mxGeometry y="108" width="220" height="86" as="geometry" />
         </mxCell>
         <mxCell id="qR0Zz7dsjUE7SFdF7JR2-30" value="&lt;div&gt;Caballo&lt;/div&gt;" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
